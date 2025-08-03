@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Analysis with Pandas
+#  Bike Store Sales Analysis with Pandas
 
 This project explores and analyzes real-life retail bike store sales using the Pandas library in Python. 
 
